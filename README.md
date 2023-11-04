@@ -1,6 +1,10 @@
 # simple-discord-bot
+REMEMBER THAT DISCORD BOT TOKEN IS DIFFERENT FROM EVERYONE, IT IS A UNIQUE TOKEN THAT SHOULDNT BE ALLOWED TO BE SHARED PUBLICLY
 '''
 Example usage:
+
+
+
 message = hello 
 output = 'I am the hydro archon of Fontaine, :sparkles: Focalors :sparkles: The god of justice who is loved and adored by many...'
 
