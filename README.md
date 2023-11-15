@@ -4,6 +4,50 @@ REMEMBER THAT DISCORD BOT TOKEN IS DIFFERENT FROM EVERYONE, IT IS A UNIQUE TOKEN
 
 This Python code provides a simple chatbot functionality with specific commands. The chatbot responds to various messages, including greetings, dice rolling, help requests, and mathematical expressions. Additionally, it supports vector operations like addition, subtraction, and scaling.
 
+Install proper libraries such as
+pip install discord.py
+
+Features
+
+Message Handling
+The bot listens for messages in the Discord server and processes them.
+
+
+Command Prefix
+Commands are initiated with a question mark ('?') as a prefix. For example, ?hello.
+
+Responses
+The bot uses the responses module to generate responses based on user messages.
+
+Responses are sent to the same channel where the command was received.
+
+Private Responses
+If a message starts with a question mark ('?'), the bot sends a private response.
+
+1 Copy and paste the provided code into a Python file (e.g., discord_bot.py).
+
+2 Replace the placeholder token in the TOKEN variable with your Discord bot token.
+
+3 Run the Python script to start the bot.
+
+Dependencies:
+discord.py
+
+Configuration
+Replace the placeholder in the TOKEN variable with your Discord bot token.
+TOKEN = 'YOUR_DISCORD_BOT_TOKEN'
+
+
+Running the Bot  
+Execute the script to run the Discord bot.
+python discord_bot.py
+
+
+Notes
+Ensure that the bot has the necessary permissions in the Discord server.
+Customize the code and responses in the responses.py module to suit your needs.
+Feel free to modify the code and experiment with different responses and commands!
+
 How to Use:
 
 1 Ensure you have Python installed on your system.
