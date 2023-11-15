@@ -66,6 +66,9 @@ print(response)
 
 
 Notes
+
 Modify the help message in the !help command according to your needs.
+
 Ensure proper syntax for mathematical and vector commands.
+
 Feel free to customize the code and experiment with different messages and commands!
